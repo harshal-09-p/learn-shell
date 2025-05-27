@@ -1,4 +1,4 @@
-# my-first-repo
+# learn-shell
 
 this is test file to commit.
 
