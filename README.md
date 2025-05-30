@@ -22,3 +22,4 @@ We can send our exit status in script using exit command. exit 0-255
 # OR - cmd1 || cmd2
 # cmd2 will execute if cmd1 is failure
 
+
